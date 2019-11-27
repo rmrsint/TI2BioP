@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>RNA_2_Icon.ico</file>
+    <file>mydrawing.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>DNA1.PNG</file>
+    <file>protein.PNG</file>
+    <file>Exit_icon.PNG</file>
+    <file>compute_icon.PNG</file>
+    <file>DNAseq.PNG</file>
+    <file>GC_AT.PNG</file>
+    <file>goldenbox.PNG</file>
+  </qresource>
+</RCC>
