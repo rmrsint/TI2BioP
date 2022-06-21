@@ -33,7 +33,7 @@ matplotlib == 3.1.1
 # oTIsDialog.py: 6
 # openct.py: 6
 # openxfasta.py: 8
-numpy == 1.17.4
+numpy == 1.22.0
 
 # FastaProc.py: 14,15,16,17
 # oTIsDialog.py: 13,14,15,16
